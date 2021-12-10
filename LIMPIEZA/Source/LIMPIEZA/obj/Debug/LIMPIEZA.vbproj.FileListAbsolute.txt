@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\LIMPIEZA\AddIn\LIMPIEZA.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\LIMPIEZA\AddIn\LIMPIEZA.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\LIMPIEZA\Source\LIMPIEZA\obj\Debug\LIMPIEZA.vbprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\LIMPIEZA\Source\LIMPIEZA\obj\Debug\LIMPIEZA.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\LIMPIEZA\Source\LIMPIEZA\obj\Debug\LIMPIEZA.pdb
