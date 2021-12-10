@@ -4,3 +4,5 @@ Macros para ver y limpiar filtros y plantillas de vista que no están en uso. Re
 Copiar carpeta LIMPIEZA en:
 
 C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup
+
+Reiniciar Revit, ya deberias tener acceso a las macros y su código.
